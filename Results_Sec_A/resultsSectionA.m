@@ -38,8 +38,8 @@ MFeats(6)=15;
 Folds(6)=5;
 
 Names{7}='Car';
-MFeats(7)=45;
-Folds(7)=4;
+MFeats(7)=37;
+Folds(7)=3;
 
 Names{8}='ProximalPhalanxOutlineAgeGroup';
 MFeats(8)=5;
